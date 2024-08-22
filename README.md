@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔥 我是 HelloGitHub 发起者
-- <img src="https://i.imgur.com/OzaawFv.jpeg" alt="Reunion Image" width="400">
+- <img src="https://i.imgur.com/OzaawFv.jpeg" alt="Reunion Image" width="200">
 
 
 
